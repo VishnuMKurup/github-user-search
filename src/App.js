@@ -25,7 +25,7 @@ function App() {
     <div className='Container'>
       <div className='App-wrap'>
         <div className='Container-wrap'>
-        <h1 className='title'>Divfinder</h1>
+        <h1 className='title'>Devfinder</h1>
         <div className='Search-wrap'>
           <form onSubmit={handleSubmit} className='Search-form'>
             <input
